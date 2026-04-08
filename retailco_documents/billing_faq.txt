@@ -1,0 +1,15 @@
+BILLING FAQ RETAILCO IBERIA
+doc_id: DOC-BILLING-FAQ
+effective_date: 2026-01-15
+
+1. Que datos aparecen en la factura?
+La factura muestra razon social del vendedor, NIF, direccion fiscal, order_id, fecha de emision, detalle de lineas, descuentos, impuestos, coste de envio y total final.
+
+2. Cuando se emite?
+La factura electronica se emite despues de la confirmacion del pago y puede variar en pedidos mixtos con expediciones parciales.
+
+3. Como corregir datos fiscales?
+Las correcciones se aceptan cuando la normativa y el estado del pedido lo permiten. Soporte puede solicitar validacion adicional si existe discrepancia entre titular del pago y titular fiscal.
+
+4. Que hacer si el total no coincide?
+Primero revisar promociones, lineas parciales y reembolsos. Si la diferencia persiste, escalar a billing con order_id y captura de la factura o del extracto del medio de pago.

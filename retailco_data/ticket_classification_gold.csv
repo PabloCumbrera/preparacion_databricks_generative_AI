@@ -1,0 +1,1201 @@
+ticket_id,gold_category,gold_priority,gold_summary
+T000001,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000002,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000003,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000004,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000005,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000006,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000007,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000008,refund,urgent,Customer requests update on refund amount and processing time.
+T000009,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000010,refund,medium,Customer requests update on refund amount and processing time.
+T000011,refund,medium,Customer requests update on refund amount and processing time.
+T000012,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000013,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000014,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000015,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000016,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000017,refund,urgent,Customer requests update on refund amount and processing time.
+T000018,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000019,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000020,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000021,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000022,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000023,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000024,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000025,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000026,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000027,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000028,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000029,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000030,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000031,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000032,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000033,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000034,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000035,refund,low,Customer requests update on refund amount and processing time.
+T000036,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000037,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000038,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000039,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000040,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000041,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000042,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000043,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000044,refund,low,Customer requests update on refund amount and processing time.
+T000045,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000046,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000047,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000048,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000049,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000050,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000051,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000052,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000053,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000054,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000055,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000056,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000057,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000058,refund,medium,Customer requests update on refund amount and processing time.
+T000059,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000060,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000061,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000062,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000063,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000064,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000065,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000066,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000067,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000068,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000069,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000070,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000071,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000072,refund,low,Customer requests update on refund amount and processing time.
+T000073,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000074,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000075,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000076,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000077,refund,high,Customer requests update on refund amount and processing time.
+T000078,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000079,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000080,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000081,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000082,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000083,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000084,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000085,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000086,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000087,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000088,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000089,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000090,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000091,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000092,refund,urgent,Customer requests update on refund amount and processing time.
+T000093,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000094,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000095,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000096,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000097,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000098,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000099,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000100,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000101,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000102,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000103,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000104,refund,high,Customer requests update on refund amount and processing time.
+T000105,refund,medium,Customer requests update on refund amount and processing time.
+T000106,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000107,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000108,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000109,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000110,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000111,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000112,refund,low,Customer requests update on refund amount and processing time.
+T000113,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000114,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000115,refund,low,Customer requests update on refund amount and processing time.
+T000116,refund,urgent,Customer requests update on refund amount and processing time.
+T000117,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000118,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000119,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000120,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000121,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000122,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000123,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000124,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000125,refund,medium,Customer requests update on refund amount and processing time.
+T000126,refund,low,Customer requests update on refund amount and processing time.
+T000127,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000128,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000129,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000130,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000131,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000132,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000133,refund,high,Customer requests update on refund amount and processing time.
+T000134,refund,high,Customer requests update on refund amount and processing time.
+T000135,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000136,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000137,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000138,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000139,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000140,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000141,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000142,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000143,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000144,refund,low,Customer requests update on refund amount and processing time.
+T000145,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000146,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000147,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000148,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000149,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000150,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000151,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000152,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000153,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000154,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000155,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000156,refund,urgent,Customer requests update on refund amount and processing time.
+T000157,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000158,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000159,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000160,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000161,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000162,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000163,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000164,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000165,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000166,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000167,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000168,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000169,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000170,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000171,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000172,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000173,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000174,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000175,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000176,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000177,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000178,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000179,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000180,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000181,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000182,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000183,refund,high,Customer requests update on refund amount and processing time.
+T000184,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000185,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000186,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000187,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000188,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000189,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000190,refund,medium,Customer requests update on refund amount and processing time.
+T000191,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000192,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000193,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000194,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000195,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000196,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000197,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000198,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000199,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000200,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000201,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000202,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000203,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000204,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000205,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000206,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000207,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000208,refund,high,Customer requests update on refund amount and processing time.
+T000209,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000210,refund,medium,Customer requests update on refund amount and processing time.
+T000211,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000212,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000213,refund,high,Customer requests update on refund amount and processing time.
+T000214,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000215,refund,high,Customer requests update on refund amount and processing time.
+T000216,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000217,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000218,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000219,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000220,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000221,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000222,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000223,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000224,refund,medium,Customer requests update on refund amount and processing time.
+T000225,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000226,refund,low,Customer requests update on refund amount and processing time.
+T000227,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000228,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000229,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000230,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000231,refund,medium,Customer requests update on refund amount and processing time.
+T000232,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000233,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000234,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000235,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000236,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000237,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000238,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000239,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000240,refund,high,Customer requests update on refund amount and processing time.
+T000241,refund,low,Customer requests update on refund amount and processing time.
+T000242,refund,medium,Customer requests update on refund amount and processing time.
+T000243,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000244,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000245,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000246,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000247,refund,urgent,Customer requests update on refund amount and processing time.
+T000248,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000249,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000250,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000251,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000252,refund,high,Customer requests update on refund amount and processing time.
+T000253,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000254,refund,low,Customer requests update on refund amount and processing time.
+T000255,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000256,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000257,refund,high,Customer requests update on refund amount and processing time.
+T000258,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000259,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000260,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000261,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000262,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000263,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000264,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000265,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000266,refund,urgent,Customer requests update on refund amount and processing time.
+T000267,refund,low,Customer requests update on refund amount and processing time.
+T000268,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000269,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000270,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000271,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000272,refund,high,Customer requests update on refund amount and processing time.
+T000273,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000274,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000275,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000276,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000277,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000278,refund,high,Customer requests update on refund amount and processing time.
+T000279,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000280,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000281,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000282,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000283,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000284,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000285,refund,high,Customer requests update on refund amount and processing time.
+T000286,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000287,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000288,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000289,refund,medium,Customer requests update on refund amount and processing time.
+T000290,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000291,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000292,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000293,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000294,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000295,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000296,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000297,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000298,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000299,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000300,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000301,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000302,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000303,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000304,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000305,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000306,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000307,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000308,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000309,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000310,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000311,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000312,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000313,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000314,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000315,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000316,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000317,refund,low,Customer requests update on refund amount and processing time.
+T000318,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000319,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000320,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000321,refund,low,Customer requests update on refund amount and processing time.
+T000322,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000323,refund,high,Customer requests update on refund amount and processing time.
+T000324,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000325,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000326,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000327,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000328,refund,urgent,Customer requests update on refund amount and processing time.
+T000329,refund,high,Customer requests update on refund amount and processing time.
+T000330,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000331,refund,high,Customer requests update on refund amount and processing time.
+T000332,refund,medium,Customer requests update on refund amount and processing time.
+T000333,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000334,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000335,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000336,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000337,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000338,refund,urgent,Customer requests update on refund amount and processing time.
+T000339,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000340,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000341,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000342,refund,low,Customer requests update on refund amount and processing time.
+T000343,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000344,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000345,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000346,refund,urgent,Customer requests update on refund amount and processing time.
+T000347,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000348,refund,medium,Customer requests update on refund amount and processing time.
+T000349,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000350,refund,high,Customer requests update on refund amount and processing time.
+T000351,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000352,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000353,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000354,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000355,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000356,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000357,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000358,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000359,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000360,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000361,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000362,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000363,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000364,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000365,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000366,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000367,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000368,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000369,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000370,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000371,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000372,refund,low,Customer requests update on refund amount and processing time.
+T000373,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000374,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000375,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000376,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000377,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000378,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000379,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000380,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000381,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000382,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000383,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000384,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000385,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000386,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000387,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000388,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000389,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000390,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000391,refund,medium,Customer requests update on refund amount and processing time.
+T000392,refund,high,Customer requests update on refund amount and processing time.
+T000393,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000394,refund,high,Customer requests update on refund amount and processing time.
+T000395,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000396,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000397,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000398,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000399,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000400,refund,urgent,Customer requests update on refund amount and processing time.
+T000401,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000402,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000403,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000404,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000405,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000406,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000407,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000408,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000409,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000410,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000411,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000412,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000413,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000414,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000415,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000416,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000417,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000418,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000419,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000420,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000421,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000422,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000423,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000424,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000425,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000426,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000427,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000428,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000429,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000430,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000431,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000432,refund,urgent,Customer requests update on refund amount and processing time.
+T000433,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000434,refund,low,Customer requests update on refund amount and processing time.
+T000435,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000436,refund,low,Customer requests update on refund amount and processing time.
+T000437,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000438,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000439,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000440,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000441,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000442,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000443,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000444,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000445,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000446,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000447,refund,urgent,Customer requests update on refund amount and processing time.
+T000448,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000449,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000450,refund,medium,Customer requests update on refund amount and processing time.
+T000451,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000452,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000453,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000454,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000455,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000456,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000457,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000458,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000459,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000460,refund,urgent,Customer requests update on refund amount and processing time.
+T000461,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000462,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000463,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000464,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000465,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000466,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000467,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000468,refund,urgent,Customer requests update on refund amount and processing time.
+T000469,refund,low,Customer requests update on refund amount and processing time.
+T000470,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000471,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000472,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000473,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000474,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000475,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000476,refund,high,Customer requests update on refund amount and processing time.
+T000477,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000478,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000479,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000480,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000481,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000482,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000483,refund,urgent,Customer requests update on refund amount and processing time.
+T000484,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000485,refund,high,Customer requests update on refund amount and processing time.
+T000486,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000487,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000488,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000489,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000490,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000491,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000492,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000493,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000494,refund,high,Customer requests update on refund amount and processing time.
+T000495,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000496,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000497,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000498,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000499,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000500,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000501,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000502,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000503,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000504,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000505,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000506,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000507,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000508,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000509,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000510,refund,low,Customer requests update on refund amount and processing time.
+T000511,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000512,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000513,refund,urgent,Customer requests update on refund amount and processing time.
+T000514,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000515,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000516,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000517,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000518,refund,high,Customer requests update on refund amount and processing time.
+T000519,refund,low,Customer requests update on refund amount and processing time.
+T000520,refund,high,Customer requests update on refund amount and processing time.
+T000521,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000522,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000523,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000524,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000525,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000526,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000527,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000528,refund,medium,Customer requests update on refund amount and processing time.
+T000529,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000530,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000531,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000532,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000533,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000534,refund,medium,Customer requests update on refund amount and processing time.
+T000535,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000536,refund,urgent,Customer requests update on refund amount and processing time.
+T000537,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000538,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000539,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000540,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000541,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000542,refund,urgent,Customer requests update on refund amount and processing time.
+T000543,refund,high,Customer requests update on refund amount and processing time.
+T000544,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000545,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000546,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000547,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000548,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000549,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000550,refund,high,Customer requests update on refund amount and processing time.
+T000551,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000552,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000553,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000554,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000555,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000556,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000557,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000558,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000559,refund,low,Customer requests update on refund amount and processing time.
+T000560,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000561,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000562,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000563,refund,urgent,Customer requests update on refund amount and processing time.
+T000564,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000565,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000566,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000567,refund,low,Customer requests update on refund amount and processing time.
+T000568,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000569,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000570,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000571,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000572,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000573,refund,high,Customer requests update on refund amount and processing time.
+T000574,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000575,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000576,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000577,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000578,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000579,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000580,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000581,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000582,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000583,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000584,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000585,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000586,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000587,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000588,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000589,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000590,refund,high,Customer requests update on refund amount and processing time.
+T000591,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000592,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000593,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000594,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000595,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000596,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000597,refund,medium,Customer requests update on refund amount and processing time.
+T000598,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000599,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000600,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000601,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000602,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000603,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000604,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000605,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000606,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000607,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000608,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000609,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000610,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000611,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000612,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000613,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000614,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000615,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000616,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000617,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000618,refund,urgent,Customer requests update on refund amount and processing time.
+T000619,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000620,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000621,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000622,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000623,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000624,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000625,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000626,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000627,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000628,refund,low,Customer requests update on refund amount and processing time.
+T000629,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000630,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000631,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000632,refund,high,Customer requests update on refund amount and processing time.
+T000633,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000634,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000635,refund,low,Customer requests update on refund amount and processing time.
+T000636,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000637,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000638,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000639,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000640,refund,high,Customer requests update on refund amount and processing time.
+T000641,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000642,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000643,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000644,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000645,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000646,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000647,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000648,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000649,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000650,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000651,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000652,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000653,refund,urgent,Customer requests update on refund amount and processing time.
+T000654,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000655,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000656,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000657,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000658,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000659,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000660,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000661,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000662,refund,low,Customer requests update on refund amount and processing time.
+T000663,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000664,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000665,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000666,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000667,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000668,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000669,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000670,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000671,refund,low,Customer requests update on refund amount and processing time.
+T000672,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000673,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000674,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000675,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000676,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000677,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000678,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000679,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000680,refund,low,Customer requests update on refund amount and processing time.
+T000681,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000682,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000683,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000684,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000685,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000686,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000687,refund,urgent,Customer requests update on refund amount and processing time.
+T000688,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000689,refund,medium,Customer requests update on refund amount and processing time.
+T000690,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000691,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000692,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000693,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000694,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000695,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000696,refund,high,Customer requests update on refund amount and processing time.
+T000697,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000698,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000699,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000700,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000701,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000702,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000703,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000704,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000705,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000706,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000707,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000708,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000709,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000710,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000711,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000712,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000713,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000714,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000715,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000716,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000717,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000718,refund,low,Customer requests update on refund amount and processing time.
+T000719,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000720,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000721,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000722,refund,medium,Customer requests update on refund amount and processing time.
+T000723,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000724,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000725,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000726,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000727,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000728,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000729,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000730,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000731,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000732,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000733,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000734,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000735,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000736,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000737,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000738,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000739,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000740,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000741,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000742,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000743,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000744,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000745,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000746,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000747,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000748,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000749,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000750,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000751,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000752,refund,medium,Customer requests update on refund amount and processing time.
+T000753,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000754,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000755,refund,low,Customer requests update on refund amount and processing time.
+T000756,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000757,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000758,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000759,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000760,refund,low,Customer requests update on refund amount and processing time.
+T000761,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000762,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000763,refund,urgent,Customer requests update on refund amount and processing time.
+T000764,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000765,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000766,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000767,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000768,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000769,refund,high,Customer requests update on refund amount and processing time.
+T000770,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000771,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000772,refund,low,Customer requests update on refund amount and processing time.
+T000773,refund,high,Customer requests update on refund amount and processing time.
+T000774,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000775,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000776,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000777,refund,high,Customer requests update on refund amount and processing time.
+T000778,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000779,refund,low,Customer requests update on refund amount and processing time.
+T000780,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000781,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000782,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000783,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000784,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000785,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000786,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000787,refund,urgent,Customer requests update on refund amount and processing time.
+T000788,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000789,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000790,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000791,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000792,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000793,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000794,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000795,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000796,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000797,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000798,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000799,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000800,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000801,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000802,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000803,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000804,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000805,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000806,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000807,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000808,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000809,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000810,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000811,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000812,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000813,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000814,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000815,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000816,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000817,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000818,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000819,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000820,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000821,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000822,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000823,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000824,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000825,refund,low,Customer requests update on refund amount and processing time.
+T000826,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000827,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000828,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000829,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000830,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000831,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000832,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000833,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000834,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000835,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000836,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000837,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000838,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000839,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000840,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000841,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000842,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000843,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000844,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000845,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000846,refund,high,Customer requests update on refund amount and processing time.
+T000847,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000848,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000849,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000850,refund,low,Customer requests update on refund amount and processing time.
+T000851,refund,urgent,Customer requests update on refund amount and processing time.
+T000852,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000853,refund,medium,Customer requests update on refund amount and processing time.
+T000854,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000855,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000856,refund,low,Customer requests update on refund amount and processing time.
+T000857,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000858,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000859,refund,medium,Customer requests update on refund amount and processing time.
+T000860,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000861,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000862,refund,urgent,Customer requests update on refund amount and processing time.
+T000863,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000864,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000865,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000866,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000867,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000868,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000869,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000870,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000871,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000872,refund,urgent,Customer requests update on refund amount and processing time.
+T000873,refund,urgent,Customer requests update on refund amount and processing time.
+T000874,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000875,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000876,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000877,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000878,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000879,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000880,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000881,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000882,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000883,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000884,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000885,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000886,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000887,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000888,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000889,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000890,refund,urgent,Customer requests update on refund amount and processing time.
+T000891,refund,high,Customer requests update on refund amount and processing time.
+T000892,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000893,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000894,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000895,refund,low,Customer requests update on refund amount and processing time.
+T000896,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000897,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000898,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000899,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000900,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000901,refund,high,Customer requests update on refund amount and processing time.
+T000902,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000903,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000904,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000905,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000906,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000907,refund,medium,Customer requests update on refund amount and processing time.
+T000908,refund,high,Customer requests update on refund amount and processing time.
+T000909,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000910,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000911,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000912,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000913,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000914,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000915,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000916,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000917,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000918,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000919,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000920,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000921,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000922,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000923,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000924,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000925,refund,medium,Customer requests update on refund amount and processing time.
+T000926,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000927,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000928,refund,medium,Customer requests update on refund amount and processing time.
+T000929,refund,low,Customer requests update on refund amount and processing time.
+T000930,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000931,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000932,refund,low,Customer requests update on refund amount and processing time.
+T000933,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000934,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000935,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000936,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000937,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000938,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000939,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000940,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000941,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T000942,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T000943,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000944,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000945,refund,urgent,Customer requests update on refund amount and processing time.
+T000946,refund,low,Customer requests update on refund amount and processing time.
+T000947,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000948,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000949,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000950,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000951,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000952,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000953,refund,high,Customer requests update on refund amount and processing time.
+T000954,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000955,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000956,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000957,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000958,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000959,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000960,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000961,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000962,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000963,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000964,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000965,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000966,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000967,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000968,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T000969,refund,urgent,Customer requests update on refund amount and processing time.
+T000970,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000971,billing,high,Customer reports billing discrepancy or missing invoice details.
+T000972,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000973,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T000974,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T000975,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000976,refund,urgent,Customer requests update on refund amount and processing time.
+T000977,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T000978,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000979,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000980,refund,medium,Customer requests update on refund amount and processing time.
+T000981,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000982,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000983,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T000984,billing,low,Customer reports billing discrepancy or missing invoice details.
+T000985,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T000986,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T000987,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000988,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000989,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T000990,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000991,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T000992,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000993,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T000994,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T000995,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T000996,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T000997,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000998,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T000999,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001000,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001001,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001002,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001003,billing,low,Customer reports billing discrepancy or missing invoice details.
+T001004,refund,medium,Customer requests update on refund amount and processing time.
+T001005,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001006,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001007,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001008,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001009,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T001010,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001011,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001012,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001013,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T001014,refund,medium,Customer requests update on refund amount and processing time.
+T001015,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001016,refund,low,Customer requests update on refund amount and processing time.
+T001017,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001018,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001019,refund,urgent,Customer requests update on refund amount and processing time.
+T001020,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001021,refund,medium,Customer requests update on refund amount and processing time.
+T001022,billing,low,Customer reports billing discrepancy or missing invoice details.
+T001023,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T001024,refund,urgent,Customer requests update on refund amount and processing time.
+T001025,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001026,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001027,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001028,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001029,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001030,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001031,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001032,refund,medium,Customer requests update on refund amount and processing time.
+T001033,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001034,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001035,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001036,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001037,refund,urgent,Customer requests update on refund amount and processing time.
+T001038,billing,low,Customer reports billing discrepancy or missing invoice details.
+T001039,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001040,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001041,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001042,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T001043,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001044,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001045,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001046,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001047,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001048,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001049,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001050,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001051,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001052,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001053,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001054,refund,low,Customer requests update on refund amount and processing time.
+T001055,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001056,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001057,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001058,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T001059,refund,urgent,Customer requests update on refund amount and processing time.
+T001060,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001061,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001062,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001063,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T001064,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001065,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001066,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001067,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001068,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001069,refund,high,Customer requests update on refund amount and processing time.
+T001070,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T001071,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001072,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001073,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001074,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001075,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001076,refund,urgent,Customer requests update on refund amount and processing time.
+T001077,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001078,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001079,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001080,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001081,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001082,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001083,refund,urgent,Customer requests update on refund amount and processing time.
+T001084,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001085,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001086,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001087,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001088,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001089,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001090,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001091,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T001092,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001093,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001094,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001095,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001096,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T001097,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001098,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001099,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001100,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001101,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T001102,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001103,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T001104,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001105,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001106,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001107,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001108,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T001109,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001110,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001111,refund,medium,Customer requests update on refund amount and processing time.
+T001112,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001113,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001114,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001115,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001116,refund,low,Customer requests update on refund amount and processing time.
+T001117,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001118,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T001119,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001120,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T001121,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001122,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001123,refund,high,Customer requests update on refund amount and processing time.
+T001124,billing,low,Customer reports billing discrepancy or missing invoice details.
+T001125,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001126,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001127,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001128,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001129,billing,low,Customer reports billing discrepancy or missing invoice details.
+T001130,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001131,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001132,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T001133,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001134,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001135,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001136,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001137,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001138,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001139,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001140,billing,medium,Customer reports billing discrepancy or missing invoice details.
+T001141,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001142,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001143,refund,low,Customer requests update on refund amount and processing time.
+T001144,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001145,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001146,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001147,warranty,medium,Customer asks whether product issue is covered under warranty terms.
+T001148,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T001149,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001150,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001151,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001152,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T001153,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001154,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001155,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T001156,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001157,refund,low,Customer requests update on refund amount and processing time.
+T001158,technical_issue,low,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001159,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001160,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001161,return_request,medium,"Customer wants to know eligibility, label generation, and return steps."
+T001162,refund,medium,Customer requests update on refund amount and processing time.
+T001163,return_request,low,"Customer wants to know eligibility, label generation, and return steps."
+T001164,product_question,medium,"Customer needs clarification on specifications, accessories, or compatibility."
+T001165,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001166,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001167,technical_issue,urgent,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001168,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001169,delivery_issue,medium,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001170,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001171,delivery_issue,high,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001172,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001173,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001174,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T001175,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001176,warranty,low,Customer asks whether product issue is covered under warranty terms.
+T001177,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001178,billing,low,Customer reports billing discrepancy or missing invoice details.
+T001179,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001180,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001181,refund,medium,Customer requests update on refund amount and processing time.
+T001182,warranty,urgent,Customer asks whether product issue is covered under warranty terms.
+T001183,refund,medium,Customer requests update on refund amount and processing time.
+T001184,warranty,high,Customer asks whether product issue is covered under warranty terms.
+T001185,delivery_issue,low,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001186,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T001187,return_request,high,"Customer wants to know eligibility, label generation, and return steps."
+T001188,billing,high,Customer reports billing discrepancy or missing invoice details.
+T001189,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001190,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001191,product_question,urgent,"Customer needs clarification on specifications, accessories, or compatibility."
+T001192,refund,medium,Customer requests update on refund amount and processing time.
+T001193,product_question,low,"Customer needs clarification on specifications, accessories, or compatibility."
+T001194,billing,urgent,Customer reports billing discrepancy or missing invoice details.
+T001195,technical_issue,medium,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001196,technical_issue,high,Customer reports malfunction after setup and requests troubleshooting guidance.
+T001197,product_question,high,"Customer needs clarification on specifications, accessories, or compatibility."
+T001198,return_request,urgent,"Customer wants to know eligibility, label generation, and return steps."
+T001199,delivery_issue,urgent,Customer indicates tracking has not moved or estimated delivery is unclear.
+T001200,return_request,low,"Customer wants to know eligibility, label generation, and return steps."

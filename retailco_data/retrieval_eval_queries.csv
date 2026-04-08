@@ -1,0 +1,13 @@
+query_id,query_text,expected_doc_id,expected_section,difficulty,language
+Q0001,¿Cuanto tarda un reembolso despues de una devolucion?,DOC-RETURNS-POLICY,refund_timeline,easy,es
+Q0002,¿Cual es el plazo maximo para devolver un pedido?,DOC-RETURNS-POLICY,return_window,easy,es
+Q0003,¿Que cubre la garantia comercial?,DOC-WARRANTY,coverage,medium,es
+Q0004,¿Cuanto tarda el envio estandar?,DOC-SHIPPING-POLICY,delivery_times,easy,es
+Q0005,¿Que hacer si un producto llega dañado?,DOC-FAQ,damaged_items,medium,es
+Q0006,¿Como consultar el numero de seguimiento?,DOC-FAQ,tracking,easy,es
+Q0007,¿Se puede devolver un articulo comprado en promocion?,DOC-TERMS,promotion_returns,hard,es
+Q0008,¿Como se tramita una incidencia tecnica en garantia?,DOC-WARRANTY,claims_process,hard,es
+Q0009,¿Que datos aparecen en la factura?,DOC-BILLING-FAQ,invoice_fields,medium,es
+Q0010,¿Como solicitar recogida para una devolucion?,DOC-RETURNS-POLICY,pickup,medium,es
+Q0011,¿Cual es la diferencia entre envio estandar y express?,DOC-SHIPPING-POLICY,shipping_methods,easy,es
+Q0012,¿Que ocurre si el transportista marca retraso?,DOC-FAQ,delays,medium,es

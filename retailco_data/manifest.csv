@@ -1,0 +1,13 @@
+file_name,rows,columns
+customers.csv,500,9
+products.csv,250,11
+orders.csv,1500,12
+order_items.csv,3740,7
+shipments.csv,1317,10
+returns.csv,262,10
+tickets.csv,1200,13
+inventory.csv,1000,7
+promotions.csv,180,9
+retrieval_eval_queries.csv,12,6
+assistant_eval_set.csv,80,8
+ticket_classification_gold.csv,1200,4

@@ -1,0 +1,16 @@
+CATALOG CHANGE LOG RETAILCO IBERIA
+
+[2026-01-08]
+- SmartWave Laptop Model 7 updated with BIOS advisory note.
+- UrbanFit Running Model 3 discontinued in store channel.
+- KitchenPro Air Fryer Model 4 warranty text clarified for professional use exclusion.
+
+[2026-02-03]
+- NovaTech Smartphone Model 12 launch added to electronics category.
+- Several headphone SKUs marked as low stock due to supplier shortage.
+- Price correction applied to three vacuum cleaner references.
+
+[2026-03-01]
+- Lighting category naming normalized for search consistency.
+- Deprecated accessory bundles removed from web catalog.
+- Product spec summaries revised to reduce duplicated wording in retrieval index.

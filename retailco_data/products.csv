@@ -1,0 +1,251 @@
+product_id,sku,product_name,category,subcategory,brand,price,currency,warranty_months,is_active,spec_summary
+P0001,SKU-00001,HomeEase Laptop Model 1,Electronics,Laptops,HomeEase,56.02,EUR,24,True,Laptops designed for retail customers with premium features.
+P0002,SKU-00002,UrbanFit Laptop Model 2,Electronics,Laptops,UrbanFit,1108.98,EUR,36,True,Laptops designed for retail customers with smart features.
+P0003,SKU-00003,NovaTech Laptop Model 3,Electronics,Laptops,NovaTech,63.1,EUR,12,True,Laptops designed for retail customers with compact features.
+P0004,SKU-00004,Electra Laptop Model 4,Electronics,Laptops,Electra,1078.71,EUR,36,False,Laptops designed for retail customers with premium features.
+P0005,SKU-00005,SmartWave Laptop Model 5,Electronics,Laptops,SmartWave,891.11,EUR,12,True,Laptops designed for retail customers with smart features.
+P0006,SKU-00006,KitchenPro Laptop Model 6,Electronics,Laptops,KitchenPro,430.25,EUR,12,True,Laptops designed for retail customers with compact features.
+P0007,SKU-00007,HomeEase Laptop Model 7,Electronics,Laptops,HomeEase,581.29,EUR,24,True,Laptops designed for retail customers with energy efficient features.
+P0008,SKU-00008,NovaTech Laptop Model 8,Electronics,Laptops,NovaTech,1099.0,EUR,36,True,Laptops designed for retail customers with smart features.
+P0009,SKU-00009,HomeEase Laptop Model 9,Electronics,Laptops,HomeEase,836.02,EUR,36,True,Laptops designed for retail customers with premium features.
+P0010,SKU-00010,HomeEase Laptop Model 10,Electronics,Laptops,HomeEase,86.82,EUR,12,True,Laptops designed for retail customers with compact features.
+P0011,SKU-00011,Electra Laptop Model 11,Electronics,Laptops,Electra,1301.4,EUR,24,True,Laptops designed for retail customers with smart features.
+P0012,SKU-00012,KitchenPro Laptop Model 12,Electronics,Laptops,KitchenPro,259.73,EUR,24,True,Laptops designed for retail customers with energy efficient features.
+P0013,SKU-00013,HomeEase Laptop Model 13,Electronics,Laptops,HomeEase,920.51,EUR,12,True,Laptops designed for retail customers with premium features.
+P0014,SKU-00014,SmartWave Laptop Model 14,Electronics,Laptops,SmartWave,580.59,EUR,36,True,Laptops designed for retail customers with energy efficient features.
+P0015,SKU-00015,NovaTech Laptop Model 15,Electronics,Laptops,NovaTech,357.99,EUR,12,True,Laptops designed for retail customers with smart features.
+P0016,SKU-00016,BluePeak Laptop Model 16,Electronics,Laptops,BluePeak,116.96,EUR,36,True,Laptops designed for retail customers with premium features.
+P0017,SKU-00017,SmartWave Smartphone Model 1,Electronics,Smartphones,SmartWave,604.54,EUR,36,False,Smartphones designed for retail customers with premium features.
+P0018,SKU-00018,BluePeak Smartphone Model 2,Electronics,Smartphones,BluePeak,225.65,EUR,36,True,Smartphones designed for retail customers with smart features.
+P0019,SKU-00019,Cyclon Smartphone Model 3,Electronics,Smartphones,Cyclon,554.75,EUR,12,False,Smartphones designed for retail customers with compact features.
+P0020,SKU-00020,NovaTech Smartphone Model 4,Electronics,Smartphones,NovaTech,1293.43,EUR,12,True,Smartphones designed for retail customers with smart features.
+P0021,SKU-00021,HomeEase Smartphone Model 5,Electronics,Smartphones,HomeEase,588.46,EUR,36,False,Smartphones designed for retail customers with energy efficient features.
+P0022,SKU-00022,NovaTech Smartphone Model 6,Electronics,Smartphones,NovaTech,1025.82,EUR,12,True,Smartphones designed for retail customers with energy efficient features.
+P0023,SKU-00023,HomeEase Smartphone Model 7,Electronics,Smartphones,HomeEase,453.38,EUR,12,False,Smartphones designed for retail customers with compact features.
+P0024,SKU-00024,BluePeak Smartphone Model 8,Electronics,Smartphones,BluePeak,1457.39,EUR,12,True,Smartphones designed for retail customers with energy efficient features.
+P0025,SKU-00025,Electra Smartphone Model 9,Electronics,Smartphones,Electra,245.2,EUR,12,True,Smartphones designed for retail customers with energy efficient features.
+P0026,SKU-00026,SmartWave Smartphone Model 10,Electronics,Smartphones,SmartWave,47.83,EUR,24,True,Smartphones designed for retail customers with premium features.
+P0027,SKU-00027,NovaTech Smartphone Model 11,Electronics,Smartphones,NovaTech,375.49,EUR,36,True,Smartphones designed for retail customers with compact features.
+P0028,SKU-00028,SmartWave Smartphone Model 12,Electronics,Smartphones,SmartWave,1226.71,EUR,36,True,Smartphones designed for retail customers with premium features.
+P0029,SKU-00029,SmartWave Smartphone Model 13,Electronics,Smartphones,SmartWave,1420.34,EUR,12,True,Smartphones designed for retail customers with smart features.
+P0030,SKU-00030,Electra Smartphone Model 14,Electronics,Smartphones,Electra,1393.79,EUR,36,True,Smartphones designed for retail customers with energy efficient features.
+P0031,SKU-00031,Cyclon Smartphone Model 15,Electronics,Smartphones,Cyclon,1491.82,EUR,36,True,Smartphones designed for retail customers with smart features.
+P0032,SKU-00032,SmartWave Smartphone Model 16,Electronics,Smartphones,SmartWave,198.09,EUR,12,True,Smartphones designed for retail customers with energy efficient features.
+P0033,SKU-00033,NovaTech Headphone Model 1,Electronics,Headphones,NovaTech,889.7,EUR,12,True,Headphones designed for retail customers with compact features.
+P0034,SKU-00034,HomeEase Headphone Model 2,Electronics,Headphones,HomeEase,1066.6,EUR,12,True,Headphones designed for retail customers with compact features.
+P0035,SKU-00035,NovaTech Headphone Model 3,Electronics,Headphones,NovaTech,1291.26,EUR,12,True,Headphones designed for retail customers with energy efficient features.
+P0036,SKU-00036,SmartWave Headphone Model 4,Electronics,Headphones,SmartWave,336.07,EUR,12,False,Headphones designed for retail customers with premium features.
+P0037,SKU-00037,SmartWave Headphone Model 5,Electronics,Headphones,SmartWave,1214.1,EUR,12,True,Headphones designed for retail customers with compact features.
+P0038,SKU-00038,Cyclon Headphone Model 6,Electronics,Headphones,Cyclon,543.36,EUR,24,False,Headphones designed for retail customers with compact features.
+P0039,SKU-00039,HomeEase Headphone Model 7,Electronics,Headphones,HomeEase,108.71,EUR,36,True,Headphones designed for retail customers with compact features.
+P0040,SKU-00040,Electra Headphone Model 8,Electronics,Headphones,Electra,302.55,EUR,36,False,Headphones designed for retail customers with premium features.
+P0041,SKU-00041,Cyclon Headphone Model 9,Electronics,Headphones,Cyclon,290.56,EUR,24,True,Headphones designed for retail customers with compact features.
+P0042,SKU-00042,SmartWave Headphone Model 10,Electronics,Headphones,SmartWave,1214.87,EUR,36,True,Headphones designed for retail customers with compact features.
+P0043,SKU-00043,NovaTech Headphone Model 11,Electronics,Headphones,NovaTech,1453.11,EUR,12,True,Headphones designed for retail customers with smart features.
+P0044,SKU-00044,SmartWave Headphone Model 12,Electronics,Headphones,SmartWave,731.41,EUR,24,True,Headphones designed for retail customers with premium features.
+P0045,SKU-00045,Cyclon Headphone Model 13,Electronics,Headphones,Cyclon,22.19,EUR,24,True,Headphones designed for retail customers with smart features.
+P0046,SKU-00046,BluePeak Headphone Model 14,Electronics,Headphones,BluePeak,645.05,EUR,36,False,Headphones designed for retail customers with premium features.
+P0047,SKU-00047,Electra Headphone Model 15,Electronics,Headphones,Electra,458.13,EUR,12,True,Headphones designed for retail customers with energy efficient features.
+P0048,SKU-00048,NovaTech Headphone Model 16,Electronics,Headphones,NovaTech,93.21,EUR,24,True,Headphones designed for retail customers with compact features.
+P0049,SKU-00049,HomeEase TV Model 1,Electronics,TVs,HomeEase,1278.99,EUR,12,True,TVs designed for retail customers with premium features.
+P0050,SKU-00050,Cyclon TV Model 2,Electronics,TVs,Cyclon,196.43,EUR,36,True,TVs designed for retail customers with compact features.
+P0051,SKU-00051,HomeEase TV Model 3,Electronics,TVs,HomeEase,639.45,EUR,36,True,TVs designed for retail customers with energy efficient features.
+P0052,SKU-00052,Electra TV Model 4,Electronics,TVs,Electra,1010.19,EUR,24,True,TVs designed for retail customers with energy efficient features.
+P0053,SKU-00053,Cyclon TV Model 5,Electronics,TVs,Cyclon,212.7,EUR,36,True,TVs designed for retail customers with smart features.
+P0054,SKU-00054,KitchenPro TV Model 6,Electronics,TVs,KitchenPro,1393.95,EUR,12,True,TVs designed for retail customers with smart features.
+P0055,SKU-00055,HomeEase TV Model 7,Electronics,TVs,HomeEase,127.43,EUR,12,True,TVs designed for retail customers with premium features.
+P0056,SKU-00056,KitchenPro TV Model 8,Electronics,TVs,KitchenPro,1322.68,EUR,12,True,TVs designed for retail customers with energy efficient features.
+P0057,SKU-00057,UrbanFit TV Model 9,Electronics,TVs,UrbanFit,667.51,EUR,36,True,TVs designed for retail customers with compact features.
+P0058,SKU-00058,BluePeak TV Model 10,Electronics,TVs,BluePeak,1398.0,EUR,12,True,TVs designed for retail customers with energy efficient features.
+P0059,SKU-00059,HomeEase TV Model 11,Electronics,TVs,HomeEase,1335.77,EUR,36,True,TVs designed for retail customers with energy efficient features.
+P0060,SKU-00060,BluePeak TV Model 12,Electronics,TVs,BluePeak,914.15,EUR,36,True,TVs designed for retail customers with premium features.
+P0061,SKU-00061,BluePeak TV Model 13,Electronics,TVs,BluePeak,767.01,EUR,24,True,TVs designed for retail customers with compact features.
+P0062,SKU-00062,Cyclon TV Model 14,Electronics,TVs,Cyclon,1246.44,EUR,12,True,TVs designed for retail customers with energy efficient features.
+P0063,SKU-00063,UrbanFit TV Model 15,Electronics,TVs,UrbanFit,961.93,EUR,24,True,TVs designed for retail customers with smart features.
+P0064,SKU-00064,Cyclon TV Model 16,Electronics,TVs,Cyclon,849.14,EUR,12,True,TVs designed for retail customers with premium features.
+P0065,SKU-00065,NovaTech Kitchen Model 1,Home,Kitchen,NovaTech,1254.2,EUR,36,True,Kitchen designed for retail customers with smart features.
+P0066,SKU-00066,UrbanFit Kitchen Model 2,Home,Kitchen,UrbanFit,80.91,EUR,24,True,Kitchen designed for retail customers with energy efficient features.
+P0067,SKU-00067,Electra Kitchen Model 3,Home,Kitchen,Electra,1028.46,EUR,36,True,Kitchen designed for retail customers with energy efficient features.
+P0068,SKU-00068,Cyclon Kitchen Model 4,Home,Kitchen,Cyclon,1460.28,EUR,36,True,Kitchen designed for retail customers with premium features.
+P0069,SKU-00069,UrbanFit Kitchen Model 5,Home,Kitchen,UrbanFit,1463.78,EUR,12,False,Kitchen designed for retail customers with compact features.
+P0070,SKU-00070,UrbanFit Kitchen Model 6,Home,Kitchen,UrbanFit,1109.12,EUR,24,False,Kitchen designed for retail customers with premium features.
+P0071,SKU-00071,BluePeak Kitchen Model 7,Home,Kitchen,BluePeak,254.61,EUR,36,True,Kitchen designed for retail customers with smart features.
+P0072,SKU-00072,NovaTech Kitchen Model 8,Home,Kitchen,NovaTech,1289.72,EUR,12,True,Kitchen designed for retail customers with smart features.
+P0073,SKU-00073,KitchenPro Kitchen Model 9,Home,Kitchen,KitchenPro,470.68,EUR,12,True,Kitchen designed for retail customers with compact features.
+P0074,SKU-00074,Electra Kitchen Model 10,Home,Kitchen,Electra,608.73,EUR,24,True,Kitchen designed for retail customers with energy efficient features.
+P0075,SKU-00075,KitchenPro Kitchen Model 11,Home,Kitchen,KitchenPro,968.39,EUR,24,True,Kitchen designed for retail customers with compact features.
+P0076,SKU-00076,HomeEase Kitchen Model 12,Home,Kitchen,HomeEase,1317.02,EUR,24,True,Kitchen designed for retail customers with energy efficient features.
+P0077,SKU-00077,NovaTech Kitchen Model 13,Home,Kitchen,NovaTech,179.44,EUR,24,True,Kitchen designed for retail customers with energy efficient features.
+P0078,SKU-00078,Cyclon Kitchen Model 14,Home,Kitchen,Cyclon,916.19,EUR,36,True,Kitchen designed for retail customers with smart features.
+P0079,SKU-00079,Electra Kitchen Model 15,Home,Kitchen,Electra,395.99,EUR,36,False,Kitchen designed for retail customers with compact features.
+P0080,SKU-00080,Electra Kitchen Model 16,Home,Kitchen,Electra,558.05,EUR,12,True,Kitchen designed for retail customers with energy efficient features.
+P0081,SKU-00081,HomeEase Cleaning Model 1,Home,Cleaning,HomeEase,1084.24,EUR,24,True,Cleaning designed for retail customers with smart features.
+P0082,SKU-00082,KitchenPro Cleaning Model 2,Home,Cleaning,KitchenPro,614.55,EUR,24,True,Cleaning designed for retail customers with premium features.
+P0083,SKU-00083,Cyclon Cleaning Model 3,Home,Cleaning,Cyclon,1003.1,EUR,24,True,Cleaning designed for retail customers with energy efficient features.
+P0084,SKU-00084,Cyclon Cleaning Model 4,Home,Cleaning,Cyclon,829.95,EUR,12,True,Cleaning designed for retail customers with energy efficient features.
+P0085,SKU-00085,Electra Cleaning Model 5,Home,Cleaning,Electra,655.23,EUR,36,True,Cleaning designed for retail customers with smart features.
+P0086,SKU-00086,SmartWave Cleaning Model 6,Home,Cleaning,SmartWave,673.4,EUR,12,False,Cleaning designed for retail customers with premium features.
+P0087,SKU-00087,HomeEase Cleaning Model 7,Home,Cleaning,HomeEase,439.0,EUR,36,True,Cleaning designed for retail customers with compact features.
+P0088,SKU-00088,Electra Cleaning Model 8,Home,Cleaning,Electra,1014.74,EUR,12,True,Cleaning designed for retail customers with premium features.
+P0089,SKU-00089,NovaTech Cleaning Model 9,Home,Cleaning,NovaTech,87.4,EUR,24,True,Cleaning designed for retail customers with smart features.
+P0090,SKU-00090,Cyclon Cleaning Model 10,Home,Cleaning,Cyclon,1330.48,EUR,36,True,Cleaning designed for retail customers with smart features.
+P0091,SKU-00091,SmartWave Cleaning Model 11,Home,Cleaning,SmartWave,610.49,EUR,12,True,Cleaning designed for retail customers with compact features.
+P0092,SKU-00092,Cyclon Cleaning Model 12,Home,Cleaning,Cyclon,342.88,EUR,36,False,Cleaning designed for retail customers with compact features.
+P0093,SKU-00093,Electra Cleaning Model 13,Home,Cleaning,Electra,1376.86,EUR,12,False,Cleaning designed for retail customers with premium features.
+P0094,SKU-00094,SmartWave Cleaning Model 14,Home,Cleaning,SmartWave,1007.02,EUR,36,True,Cleaning designed for retail customers with smart features.
+P0095,SKU-00095,Cyclon Cleaning Model 15,Home,Cleaning,Cyclon,1248.24,EUR,36,False,Cleaning designed for retail customers with premium features.
+P0096,SKU-00096,SmartWave Cleaning Model 16,Home,Cleaning,SmartWave,685.1,EUR,12,True,Cleaning designed for retail customers with smart features.
+P0097,SKU-00097,Electra Decoration Model 1,Home,Decoration,Electra,425.4,EUR,12,True,Decoration designed for retail customers with premium features.
+P0098,SKU-00098,BluePeak Decoration Model 2,Home,Decoration,BluePeak,516.05,EUR,36,True,Decoration designed for retail customers with premium features.
+P0099,SKU-00099,UrbanFit Decoration Model 3,Home,Decoration,UrbanFit,361.27,EUR,36,True,Decoration designed for retail customers with premium features.
+P0100,SKU-00100,HomeEase Decoration Model 4,Home,Decoration,HomeEase,633.0,EUR,24,False,Decoration designed for retail customers with smart features.
+P0101,SKU-00101,NovaTech Decoration Model 5,Home,Decoration,NovaTech,325.11,EUR,24,False,Decoration designed for retail customers with compact features.
+P0102,SKU-00102,Cyclon Decoration Model 6,Home,Decoration,Cyclon,724.93,EUR,24,True,Decoration designed for retail customers with smart features.
+P0103,SKU-00103,Cyclon Decoration Model 7,Home,Decoration,Cyclon,815.57,EUR,36,True,Decoration designed for retail customers with smart features.
+P0104,SKU-00104,Electra Decoration Model 8,Home,Decoration,Electra,422.94,EUR,24,True,Decoration designed for retail customers with smart features.
+P0105,SKU-00105,KitchenPro Decoration Model 9,Home,Decoration,KitchenPro,1008.93,EUR,24,True,Decoration designed for retail customers with smart features.
+P0106,SKU-00106,UrbanFit Decoration Model 10,Home,Decoration,UrbanFit,1470.47,EUR,36,True,Decoration designed for retail customers with smart features.
+P0107,SKU-00107,NovaTech Decoration Model 11,Home,Decoration,NovaTech,143.24,EUR,24,True,Decoration designed for retail customers with smart features.
+P0108,SKU-00108,UrbanFit Decoration Model 12,Home,Decoration,UrbanFit,93.42,EUR,24,True,Decoration designed for retail customers with premium features.
+P0109,SKU-00109,SmartWave Decoration Model 13,Home,Decoration,SmartWave,502.73,EUR,24,True,Decoration designed for retail customers with smart features.
+P0110,SKU-00110,BluePeak Decoration Model 14,Home,Decoration,BluePeak,1254.67,EUR,24,True,Decoration designed for retail customers with compact features.
+P0111,SKU-00111,KitchenPro Decoration Model 15,Home,Decoration,KitchenPro,350.85,EUR,12,True,Decoration designed for retail customers with compact features.
+P0112,SKU-00112,Electra Decoration Model 16,Home,Decoration,Electra,314.05,EUR,12,True,Decoration designed for retail customers with premium features.
+P0113,SKU-00113,UrbanFit Lighting Model 1,Home,Lighting,UrbanFit,719.87,EUR,12,True,Lighting designed for retail customers with smart features.
+P0114,SKU-00114,BluePeak Lighting Model 2,Home,Lighting,BluePeak,1154.01,EUR,12,True,Lighting designed for retail customers with premium features.
+P0115,SKU-00115,BluePeak Lighting Model 3,Home,Lighting,BluePeak,178.99,EUR,12,True,Lighting designed for retail customers with smart features.
+P0116,SKU-00116,Cyclon Lighting Model 4,Home,Lighting,Cyclon,1412.38,EUR,12,True,Lighting designed for retail customers with premium features.
+P0117,SKU-00117,HomeEase Lighting Model 5,Home,Lighting,HomeEase,1050.85,EUR,24,True,Lighting designed for retail customers with compact features.
+P0118,SKU-00118,KitchenPro Lighting Model 6,Home,Lighting,KitchenPro,807.46,EUR,36,True,Lighting designed for retail customers with compact features.
+P0119,SKU-00119,KitchenPro Lighting Model 7,Home,Lighting,KitchenPro,37.73,EUR,24,False,Lighting designed for retail customers with compact features.
+P0120,SKU-00120,Cyclon Lighting Model 8,Home,Lighting,Cyclon,1440.97,EUR,36,False,Lighting designed for retail customers with premium features.
+P0121,SKU-00121,Cyclon Lighting Model 9,Home,Lighting,Cyclon,279.68,EUR,36,True,Lighting designed for retail customers with smart features.
+P0122,SKU-00122,SmartWave Lighting Model 10,Home,Lighting,SmartWave,663.65,EUR,36,True,Lighting designed for retail customers with energy efficient features.
+P0123,SKU-00123,Electra Lighting Model 11,Home,Lighting,Electra,1248.48,EUR,12,True,Lighting designed for retail customers with smart features.
+P0124,SKU-00124,Electra Lighting Model 12,Home,Lighting,Electra,1129.7,EUR,36,False,Lighting designed for retail customers with energy efficient features.
+P0125,SKU-00125,NovaTech Lighting Model 13,Home,Lighting,NovaTech,750.57,EUR,24,True,Lighting designed for retail customers with smart features.
+P0126,SKU-00126,Electra Lighting Model 14,Home,Lighting,Electra,544.14,EUR,24,True,Lighting designed for retail customers with energy efficient features.
+P0127,SKU-00127,BluePeak Lighting Model 15,Home,Lighting,BluePeak,841.57,EUR,36,True,Lighting designed for retail customers with compact features.
+P0128,SKU-00128,Electra Lighting Model 16,Home,Lighting,Electra,1084.71,EUR,24,True,Lighting designed for retail customers with smart features.
+P0129,SKU-00129,SmartWave Fitnes Model 1,Sports,Fitness,SmartWave,682.3,EUR,12,True,Fitness designed for retail customers with energy efficient features.
+P0130,SKU-00130,Electra Fitnes Model 2,Sports,Fitness,Electra,617.51,EUR,12,True,Fitness designed for retail customers with energy efficient features.
+P0131,SKU-00131,SmartWave Fitnes Model 3,Sports,Fitness,SmartWave,838.14,EUR,24,False,Fitness designed for retail customers with energy efficient features.
+P0132,SKU-00132,KitchenPro Fitnes Model 4,Sports,Fitness,KitchenPro,1059.23,EUR,24,True,Fitness designed for retail customers with energy efficient features.
+P0133,SKU-00133,Electra Fitnes Model 5,Sports,Fitness,Electra,197.57,EUR,12,True,Fitness designed for retail customers with compact features.
+P0134,SKU-00134,UrbanFit Fitnes Model 6,Sports,Fitness,UrbanFit,302.48,EUR,36,False,Fitness designed for retail customers with energy efficient features.
+P0135,SKU-00135,BluePeak Fitnes Model 7,Sports,Fitness,BluePeak,1470.16,EUR,12,True,Fitness designed for retail customers with premium features.
+P0136,SKU-00136,KitchenPro Fitnes Model 8,Sports,Fitness,KitchenPro,284.57,EUR,12,True,Fitness designed for retail customers with energy efficient features.
+P0137,SKU-00137,NovaTech Fitnes Model 9,Sports,Fitness,NovaTech,1460.96,EUR,36,True,Fitness designed for retail customers with premium features.
+P0138,SKU-00138,SmartWave Fitnes Model 10,Sports,Fitness,SmartWave,170.83,EUR,12,True,Fitness designed for retail customers with smart features.
+P0139,SKU-00139,SmartWave Fitnes Model 11,Sports,Fitness,SmartWave,670.89,EUR,12,True,Fitness designed for retail customers with energy efficient features.
+P0140,SKU-00140,SmartWave Fitnes Model 12,Sports,Fitness,SmartWave,187.85,EUR,12,False,Fitness designed for retail customers with smart features.
+P0141,SKU-00141,HomeEase Fitnes Model 13,Sports,Fitness,HomeEase,872.99,EUR,36,True,Fitness designed for retail customers with premium features.
+P0142,SKU-00142,UrbanFit Fitnes Model 14,Sports,Fitness,UrbanFit,1219.49,EUR,24,True,Fitness designed for retail customers with premium features.
+P0143,SKU-00143,HomeEase Fitnes Model 15,Sports,Fitness,HomeEase,844.95,EUR,24,True,Fitness designed for retail customers with smart features.
+P0144,SKU-00144,SmartWave Fitnes Model 16,Sports,Fitness,SmartWave,1363.59,EUR,24,False,Fitness designed for retail customers with energy efficient features.
+P0145,SKU-00145,NovaTech Running Model 1,Sports,Running,NovaTech,921.25,EUR,36,True,Running designed for retail customers with premium features.
+P0146,SKU-00146,Electra Running Model 2,Sports,Running,Electra,410.68,EUR,12,True,Running designed for retail customers with premium features.
+P0147,SKU-00147,UrbanFit Running Model 3,Sports,Running,UrbanFit,835.95,EUR,12,True,Running designed for retail customers with smart features.
+P0148,SKU-00148,SmartWave Running Model 4,Sports,Running,SmartWave,1039.27,EUR,24,True,Running designed for retail customers with compact features.
+P0149,SKU-00149,Electra Running Model 5,Sports,Running,Electra,445.4,EUR,24,False,Running designed for retail customers with compact features.
+P0150,SKU-00150,Electra Running Model 6,Sports,Running,Electra,1386.39,EUR,36,True,Running designed for retail customers with smart features.
+P0151,SKU-00151,HomeEase Running Model 7,Sports,Running,HomeEase,824.95,EUR,36,True,Running designed for retail customers with energy efficient features.
+P0152,SKU-00152,UrbanFit Running Model 8,Sports,Running,UrbanFit,124.69,EUR,12,True,Running designed for retail customers with energy efficient features.
+P0153,SKU-00153,SmartWave Running Model 9,Sports,Running,SmartWave,203.04,EUR,36,True,Running designed for retail customers with smart features.
+P0154,SKU-00154,BluePeak Running Model 10,Sports,Running,BluePeak,759.7,EUR,24,False,Running designed for retail customers with compact features.
+P0155,SKU-00155,NovaTech Running Model 11,Sports,Running,NovaTech,1335.35,EUR,36,True,Running designed for retail customers with energy efficient features.
+P0156,SKU-00156,NovaTech Running Model 12,Sports,Running,NovaTech,154.16,EUR,36,True,Running designed for retail customers with energy efficient features.
+P0157,SKU-00157,NovaTech Running Model 13,Sports,Running,NovaTech,1148.4,EUR,12,False,Running designed for retail customers with smart features.
+P0158,SKU-00158,BluePeak Running Model 14,Sports,Running,BluePeak,287.6,EUR,36,False,Running designed for retail customers with smart features.
+P0159,SKU-00159,HomeEase Running Model 15,Sports,Running,HomeEase,714.62,EUR,24,True,Running designed for retail customers with energy efficient features.
+P0160,SKU-00160,HomeEase Running Model 16,Sports,Running,HomeEase,1288.44,EUR,24,False,Running designed for retail customers with smart features.
+P0161,SKU-00161,BluePeak Cycling Model 1,Sports,Cycling,BluePeak,999.62,EUR,24,True,Cycling designed for retail customers with smart features.
+P0162,SKU-00162,HomeEase Cycling Model 2,Sports,Cycling,HomeEase,484.49,EUR,24,True,Cycling designed for retail customers with smart features.
+P0163,SKU-00163,NovaTech Cycling Model 3,Sports,Cycling,NovaTech,992.34,EUR,36,False,Cycling designed for retail customers with smart features.
+P0164,SKU-00164,NovaTech Cycling Model 4,Sports,Cycling,NovaTech,296.62,EUR,24,False,Cycling designed for retail customers with smart features.
+P0165,SKU-00165,NovaTech Cycling Model 5,Sports,Cycling,NovaTech,320.27,EUR,36,True,Cycling designed for retail customers with energy efficient features.
+P0166,SKU-00166,SmartWave Cycling Model 6,Sports,Cycling,SmartWave,1322.65,EUR,24,True,Cycling designed for retail customers with compact features.
+P0167,SKU-00167,Electra Cycling Model 7,Sports,Cycling,Electra,1069.48,EUR,24,True,Cycling designed for retail customers with smart features.
+P0168,SKU-00168,HomeEase Cycling Model 8,Sports,Cycling,HomeEase,351.56,EUR,12,False,Cycling designed for retail customers with compact features.
+P0169,SKU-00169,UrbanFit Cycling Model 9,Sports,Cycling,UrbanFit,756.6,EUR,36,True,Cycling designed for retail customers with energy efficient features.
+P0170,SKU-00170,Cyclon Cycling Model 10,Sports,Cycling,Cyclon,1254.39,EUR,24,True,Cycling designed for retail customers with smart features.
+P0171,SKU-00171,UrbanFit Cycling Model 11,Sports,Cycling,UrbanFit,586.71,EUR,36,True,Cycling designed for retail customers with compact features.
+P0172,SKU-00172,BluePeak Cycling Model 12,Sports,Cycling,BluePeak,1162.56,EUR,24,True,Cycling designed for retail customers with energy efficient features.
+P0173,SKU-00173,NovaTech Cycling Model 13,Sports,Cycling,NovaTech,437.6,EUR,24,False,Cycling designed for retail customers with premium features.
+P0174,SKU-00174,SmartWave Cycling Model 14,Sports,Cycling,SmartWave,816.1,EUR,24,True,Cycling designed for retail customers with smart features.
+P0175,SKU-00175,SmartWave Cycling Model 15,Sports,Cycling,SmartWave,1399.62,EUR,12,True,Cycling designed for retail customers with smart features.
+P0176,SKU-00176,Electra Cycling Model 16,Sports,Cycling,Electra,1285.9,EUR,24,True,Cycling designed for retail customers with energy efficient features.
+P0177,SKU-00177,SmartWave Outdoor Model 1,Sports,Outdoor,SmartWave,1062.74,EUR,24,False,Outdoor designed for retail customers with premium features.
+P0178,SKU-00178,SmartWave Outdoor Model 2,Sports,Outdoor,SmartWave,1446.94,EUR,12,True,Outdoor designed for retail customers with compact features.
+P0179,SKU-00179,SmartWave Outdoor Model 3,Sports,Outdoor,SmartWave,166.57,EUR,24,True,Outdoor designed for retail customers with premium features.
+P0180,SKU-00180,Cyclon Outdoor Model 4,Sports,Outdoor,Cyclon,1307.98,EUR,12,True,Outdoor designed for retail customers with smart features.
+P0181,SKU-00181,BluePeak Outdoor Model 5,Sports,Outdoor,BluePeak,520.07,EUR,36,False,Outdoor designed for retail customers with compact features.
+P0182,SKU-00182,KitchenPro Outdoor Model 6,Sports,Outdoor,KitchenPro,1280.47,EUR,36,False,Outdoor designed for retail customers with energy efficient features.
+P0183,SKU-00183,SmartWave Outdoor Model 7,Sports,Outdoor,SmartWave,1310.13,EUR,12,True,Outdoor designed for retail customers with premium features.
+P0184,SKU-00184,BluePeak Outdoor Model 8,Sports,Outdoor,BluePeak,1495.19,EUR,36,True,Outdoor designed for retail customers with smart features.
+P0185,SKU-00185,HomeEase Outdoor Model 9,Sports,Outdoor,HomeEase,1144.35,EUR,36,True,Outdoor designed for retail customers with smart features.
+P0186,SKU-00186,UrbanFit Outdoor Model 10,Sports,Outdoor,UrbanFit,1046.12,EUR,12,True,Outdoor designed for retail customers with energy efficient features.
+P0187,SKU-00187,NovaTech Outdoor Model 11,Sports,Outdoor,NovaTech,453.18,EUR,24,False,Outdoor designed for retail customers with premium features.
+P0188,SKU-00188,Electra Outdoor Model 12,Sports,Outdoor,Electra,805.13,EUR,36,True,Outdoor designed for retail customers with premium features.
+P0189,SKU-00189,UrbanFit Outdoor Model 13,Sports,Outdoor,UrbanFit,135.87,EUR,24,True,Outdoor designed for retail customers with smart features.
+P0190,SKU-00190,UrbanFit Outdoor Model 14,Sports,Outdoor,UrbanFit,362.64,EUR,36,True,Outdoor designed for retail customers with smart features.
+P0191,SKU-00191,BluePeak Outdoor Model 15,Sports,Outdoor,BluePeak,1005.92,EUR,24,True,Outdoor designed for retail customers with premium features.
+P0192,SKU-00192,HomeEase Outdoor Model 16,Sports,Outdoor,HomeEase,672.76,EUR,24,True,Outdoor designed for retail customers with smart features.
+P0193,SKU-00193,BluePeak Coffee Model 1,Appliances,Coffee,BluePeak,695.12,EUR,24,True,Coffee designed for retail customers with smart features.
+P0194,SKU-00194,SmartWave Coffee Model 2,Appliances,Coffee,SmartWave,176.85,EUR,24,True,Coffee designed for retail customers with energy efficient features.
+P0195,SKU-00195,BluePeak Coffee Model 3,Appliances,Coffee,BluePeak,51.47,EUR,36,False,Coffee designed for retail customers with energy efficient features.
+P0196,SKU-00196,NovaTech Coffee Model 4,Appliances,Coffee,NovaTech,856.57,EUR,36,True,Coffee designed for retail customers with smart features.
+P0197,SKU-00197,BluePeak Coffee Model 5,Appliances,Coffee,BluePeak,1167.1,EUR,12,True,Coffee designed for retail customers with premium features.
+P0198,SKU-00198,Electra Coffee Model 6,Appliances,Coffee,Electra,937.92,EUR,36,True,Coffee designed for retail customers with compact features.
+P0199,SKU-00199,NovaTech Coffee Model 7,Appliances,Coffee,NovaTech,476.22,EUR,24,True,Coffee designed for retail customers with energy efficient features.
+P0200,SKU-00200,UrbanFit Coffee Model 8,Appliances,Coffee,UrbanFit,152.4,EUR,24,True,Coffee designed for retail customers with smart features.
+P0201,SKU-00201,UrbanFit Coffee Model 9,Appliances,Coffee,UrbanFit,316.18,EUR,36,True,Coffee designed for retail customers with energy efficient features.
+P0202,SKU-00202,UrbanFit Coffee Model 10,Appliances,Coffee,UrbanFit,399.32,EUR,24,True,Coffee designed for retail customers with energy efficient features.
+P0203,SKU-00203,HomeEase Coffee Model 11,Appliances,Coffee,HomeEase,712.13,EUR,12,True,Coffee designed for retail customers with premium features.
+P0204,SKU-00204,Cyclon Coffee Model 12,Appliances,Coffee,Cyclon,1450.56,EUR,36,True,Coffee designed for retail customers with compact features.
+P0205,SKU-00205,Cyclon Coffee Model 13,Appliances,Coffee,Cyclon,39.6,EUR,36,True,Coffee designed for retail customers with smart features.
+P0206,SKU-00206,KitchenPro Coffee Model 14,Appliances,Coffee,KitchenPro,1014.79,EUR,36,True,Coffee designed for retail customers with smart features.
+P0207,SKU-00207,KitchenPro Coffee Model 15,Appliances,Coffee,KitchenPro,179.35,EUR,12,False,Coffee designed for retail customers with compact features.
+P0208,SKU-00208,KitchenPro Coffee Model 16,Appliances,Coffee,KitchenPro,1373.58,EUR,12,True,Coffee designed for retail customers with smart features.
+P0209,SKU-00209,BluePeak Vacuum Model 1,Appliances,Vacuum,BluePeak,979.87,EUR,12,True,Vacuum designed for retail customers with compact features.
+P0210,SKU-00210,NovaTech Vacuum Model 2,Appliances,Vacuum,NovaTech,469.46,EUR,24,True,Vacuum designed for retail customers with compact features.
+P0211,SKU-00211,Electra Vacuum Model 3,Appliances,Vacuum,Electra,1332.14,EUR,12,False,Vacuum designed for retail customers with smart features.
+P0212,SKU-00212,KitchenPro Vacuum Model 4,Appliances,Vacuum,KitchenPro,1011.32,EUR,36,False,Vacuum designed for retail customers with premium features.
+P0213,SKU-00213,Cyclon Vacuum Model 5,Appliances,Vacuum,Cyclon,988.28,EUR,24,False,Vacuum designed for retail customers with energy efficient features.
+P0214,SKU-00214,NovaTech Vacuum Model 6,Appliances,Vacuum,NovaTech,1040.62,EUR,12,False,Vacuum designed for retail customers with smart features.
+P0215,SKU-00215,Electra Vacuum Model 7,Appliances,Vacuum,Electra,1285.07,EUR,12,True,Vacuum designed for retail customers with energy efficient features.
+P0216,SKU-00216,NovaTech Vacuum Model 8,Appliances,Vacuum,NovaTech,608.25,EUR,12,True,Vacuum designed for retail customers with smart features.
+P0217,SKU-00217,HomeEase Vacuum Model 9,Appliances,Vacuum,HomeEase,999.9,EUR,36,True,Vacuum designed for retail customers with compact features.
+P0218,SKU-00218,KitchenPro Vacuum Model 10,Appliances,Vacuum,KitchenPro,379.48,EUR,12,True,Vacuum designed for retail customers with compact features.
+P0219,SKU-00219,Electra Vacuum Model 11,Appliances,Vacuum,Electra,886.85,EUR,12,True,Vacuum designed for retail customers with premium features.
+P0220,SKU-00220,NovaTech Vacuum Model 12,Appliances,Vacuum,NovaTech,429.37,EUR,12,True,Vacuum designed for retail customers with energy efficient features.
+P0221,SKU-00221,UrbanFit Vacuum Model 13,Appliances,Vacuum,UrbanFit,181.69,EUR,12,True,Vacuum designed for retail customers with compact features.
+P0222,SKU-00222,KitchenPro Vacuum Model 14,Appliances,Vacuum,KitchenPro,1188.18,EUR,12,True,Vacuum designed for retail customers with compact features.
+P0223,SKU-00223,UrbanFit Vacuum Model 15,Appliances,Vacuum,UrbanFit,411.74,EUR,12,False,Vacuum designed for retail customers with compact features.
+P0224,SKU-00224,HomeEase Vacuum Model 16,Appliances,Vacuum,HomeEase,723.84,EUR,24,True,Vacuum designed for retail customers with smart features.
+P0225,SKU-00225,Electra Air Fryer Model 1,Appliances,Air Fryer,Electra,1418.22,EUR,12,True,Air Fryer designed for retail customers with smart features.
+P0226,SKU-00226,NovaTech Air Fryer Model 2,Appliances,Air Fryer,NovaTech,109.02,EUR,24,False,Air Fryer designed for retail customers with smart features.
+P0227,SKU-00227,HomeEase Air Fryer Model 3,Appliances,Air Fryer,HomeEase,744.6,EUR,24,True,Air Fryer designed for retail customers with compact features.
+P0228,SKU-00228,KitchenPro Air Fryer Model 4,Appliances,Air Fryer,KitchenPro,919.28,EUR,12,True,Air Fryer designed for retail customers with energy efficient features.
+P0229,SKU-00229,KitchenPro Air Fryer Model 5,Appliances,Air Fryer,KitchenPro,582.74,EUR,36,True,Air Fryer designed for retail customers with smart features.
+P0230,SKU-00230,Cyclon Air Fryer Model 6,Appliances,Air Fryer,Cyclon,165.78,EUR,36,True,Air Fryer designed for retail customers with premium features.
+P0231,SKU-00231,Cyclon Air Fryer Model 7,Appliances,Air Fryer,Cyclon,687.3,EUR,12,False,Air Fryer designed for retail customers with energy efficient features.
+P0232,SKU-00232,SmartWave Air Fryer Model 8,Appliances,Air Fryer,SmartWave,609.12,EUR,36,True,Air Fryer designed for retail customers with energy efficient features.
+P0233,SKU-00233,Cyclon Air Fryer Model 9,Appliances,Air Fryer,Cyclon,481.53,EUR,24,True,Air Fryer designed for retail customers with premium features.
+P0234,SKU-00234,SmartWave Air Fryer Model 10,Appliances,Air Fryer,SmartWave,118.36,EUR,12,True,Air Fryer designed for retail customers with smart features.
+P0235,SKU-00235,HomeEase Air Fryer Model 11,Appliances,Air Fryer,HomeEase,1120.99,EUR,24,True,Air Fryer designed for retail customers with compact features.
+P0236,SKU-00236,KitchenPro Air Fryer Model 12,Appliances,Air Fryer,KitchenPro,1010.62,EUR,24,True,Air Fryer designed for retail customers with smart features.
+P0237,SKU-00237,NovaTech Air Fryer Model 13,Appliances,Air Fryer,NovaTech,1452.23,EUR,36,True,Air Fryer designed for retail customers with energy efficient features.
+P0238,SKU-00238,HomeEase Air Fryer Model 14,Appliances,Air Fryer,HomeEase,874.32,EUR,12,True,Air Fryer designed for retail customers with smart features.
+P0239,SKU-00239,Electra Air Fryer Model 15,Appliances,Air Fryer,Electra,1272.97,EUR,24,True,Air Fryer designed for retail customers with compact features.
+P0240,SKU-00240,BluePeak Air Fryer Model 16,Appliances,Air Fryer,BluePeak,868.67,EUR,24,True,Air Fryer designed for retail customers with energy efficient features.
+P0241,SKU-00241,NovaTech Climate Model 1,Appliances,Climate,NovaTech,286.02,EUR,36,True,Climate designed for retail customers with energy efficient features.
+P0242,SKU-00242,KitchenPro Climate Model 2,Appliances,Climate,KitchenPro,28.04,EUR,12,False,Climate designed for retail customers with compact features.
+P0243,SKU-00243,UrbanFit Climate Model 3,Appliances,Climate,UrbanFit,1115.63,EUR,12,True,Climate designed for retail customers with premium features.
+P0244,SKU-00244,Cyclon Climate Model 4,Appliances,Climate,Cyclon,640.35,EUR,24,True,Climate designed for retail customers with energy efficient features.
+P0245,SKU-00245,BluePeak Climate Model 5,Appliances,Climate,BluePeak,1086.96,EUR,36,True,Climate designed for retail customers with compact features.
+P0246,SKU-00246,UrbanFit Climate Model 6,Appliances,Climate,UrbanFit,251.97,EUR,36,True,Climate designed for retail customers with compact features.
+P0247,SKU-00247,BluePeak Climate Model 7,Appliances,Climate,BluePeak,674.81,EUR,24,False,Climate designed for retail customers with smart features.
+P0248,SKU-00248,Cyclon Climate Model 8,Appliances,Climate,Cyclon,423.29,EUR,36,True,Climate designed for retail customers with energy efficient features.
+P0249,SKU-00249,Cyclon Climate Model 9,Appliances,Climate,Cyclon,183.12,EUR,36,False,Climate designed for retail customers with energy efficient features.
+P0250,SKU-00250,NovaTech Climate Model 10,Appliances,Climate,NovaTech,345.37,EUR,36,True,Climate designed for retail customers with compact features.
